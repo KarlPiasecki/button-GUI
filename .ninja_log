@@ -1,0 +1,9 @@
+# ninja log v5
+1	270	1650442812010463290	untitled_autogen/timestamp	bc036b7d960cb2d3
+1	270	1650442812010463290	untitled_autogen/mocs_compilation.cpp	bc036b7d960cb2d3
+1	270	1650442812010463290	/home/kali/Documents/Electrometal-energetyka/qt-elektro/build-untitled-Desktop_Qt_6_3_0_GCC_64bit-Release/untitled_autogen/timestamp	bc036b7d960cb2d3
+1	270	1650442812010463290	/home/kali/Documents/Electrometal-energetyka/qt-elektro/build-untitled-Desktop_Qt_6_3_0_GCC_64bit-Release/untitled_autogen/mocs_compilation.cpp	bc036b7d960cb2d3
+270	2150	1650442813893263228	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	672097b89474be77
+270	2196	1650442813943663227	CMakeFiles/untitled.dir/main.cpp.o	58efbba13ca4ea51
+270	2401	1650442814145263219	CMakeFiles/untitled.dir/mainwindow.cpp.o	de2d49059f85da21
+2401	2796	1650442814541263206	untitled	d64a391f8f4aeb27

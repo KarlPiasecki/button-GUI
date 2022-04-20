@@ -1,0 +1,5 @@
+/home/kali/Documents/Electrometal-energetyka/qt-elektro/build-untitled-Desktop_Qt_6_3_0_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
+/home/kali/Documents/Electrometal-energetyka/qt-elektro/build-untitled-Desktop_Qt_6_3_0_GCC_64bit-Release/CMakeFiles/edit_cache.dir
+/home/kali/Documents/Electrometal-energetyka/qt-elektro/build-untitled-Desktop_Qt_6_3_0_GCC_64bit-Release/CMakeFiles/untitled.dir
+/home/kali/Documents/Electrometal-energetyka/qt-elektro/build-untitled-Desktop_Qt_6_3_0_GCC_64bit-Release/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/home/kali/Documents/Electrometal-energetyka/qt-elektro/build-untitled-Desktop_Qt_6_3_0_GCC_64bit-Release/CMakeFiles/untitled_autogen.dir
